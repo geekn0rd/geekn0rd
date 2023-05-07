@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Amir-Ali.
 
 <!--
 **geekn0rd/geekn0rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Science undergrad @ the Amirkabir U of Tech, studying about machine learnig and especially curious about generative models. 
+## :mailbox: Contact me
+<p align="left"> 
+<a href="mailto:a2motaghedy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" />
+</a>
+<a href="https:https://www.linkedin.com/in/amir-ali-motaghedy-455b60224/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn logo" title="LinkedIn" height="25" /> 
+</a> 
+</p>
