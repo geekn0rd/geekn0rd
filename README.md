@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Computer Science undergrad @ the Amirkabir U of Tech, studying about machine learnig and especially curious about generative models. 
+I'm a Computer Science undergrad @ the Amirkabir U of Tech, studying about machine learnig and especially curious about generative models and computaional neuroscience. 
 ## :mailbox: Contact me
 <p align="left"> 
 <a href="mailto:a2motaghedy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" />
