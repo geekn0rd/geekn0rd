@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Amir-Ali.
+## Hi there 👋, I'm Amirali.
 
 <!--
 **geekn0rd/geekn0rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a post-grad student @ Unipd, specilazing in AI and robotics. I'm curious about generative models and computaional neuroscience. 
-## :mailbox: Contact me
-<p align="left"> 
-<a href="mailto:a2motaghedy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" />
-</a>
-<a href="https:https://www.linkedin.com/in/amir-ali-motaghedy-455b60224/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn logo" title="LinkedIn" height="25" /> 
-</a> 
-</p>
+I'm a post-grad student @ UniPD, specializing in AI and robotics. I'm curious about computational neuroscience. 
+
+- I’m currently a full stack software developer
+- I'm contributing to a neuroscience research project involving sleep data 
+
+### 📫 Connect with Me
+<p align="left"> <a href="mailto:a2motaghedy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-282C34?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" height="30" /> </a> &nbsp; <a href="https://www.linkedin.com/in/a2-motaghedy/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="30" /> </a> </p>
